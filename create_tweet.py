@@ -29,7 +29,7 @@ message = (
         + "https://www.google.com/"
     )
 """
-message = "そばに関する豆知識を100文字程度で教えて下さい"
+message = "cahtGPTに与える文言"
 
 """ユーザー認証を行う場合
 # Get request token
